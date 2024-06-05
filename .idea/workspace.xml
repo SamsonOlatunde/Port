@@ -4,33 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c904759-69d1-416c-942a-d929f309671b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/TundeSite.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TundePortfolio_Project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TundePortfolio_Project/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TundePortfolio_Project/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TundePortfolio_Project/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TundePortfolio_Project/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Product.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/South_California.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/restaurant.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/templates/portfolio/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/views.py" afterDir="false" />
+    <list default="true" id="3c904759-69d1-416c-942a-d929f309671b" name="Changes" comment="MyPortfolio">
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/res.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "SamsonOlatunde"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/SamsonOlatunde/Port",
+    "accountId": "f13b4e19-fd79-43c8-8737-63b8e4575733"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -110,9 +98,20 @@
       <option name="presentableId" value="Default" />
       <updated>1717467370880</updated>
     </task>
+    <task id="LOCAL-00001" summary="MyPortfolio">
+      <option name="closed" value="true" />
+      <created>1717585228767</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717585228767</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="MyPortfolio" />
+    <option name="LAST_COMMIT_MESSAGE" value="MyPortfolio" />
   </component>
 </project>
